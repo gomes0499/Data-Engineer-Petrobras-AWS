@@ -1,4 +1,4 @@
-# 2.Data-Engineer - Petrobras - Study Case
+# Data-Engineer - Petrobras - Study Case
 
 ## Petrobras
 The proposed data engineering pipeline will ingest, process, and analyze real-time sensor data from Petrobras' oil and gas pipelines. The pipeline will monitor the data and optimize maintenance schedules. This project will enhance Petrobras' ability to proactively address potential issues and improve overall operational efficiency.
