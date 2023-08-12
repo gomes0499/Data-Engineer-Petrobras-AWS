@@ -15,7 +15,7 @@ The proposed data engineering pipeline will ingest, process, and analyze real-ti
 9. Finally, the entire pipeline was orchestrated using Apache Airflow, deployed on a container.
 
 ### Pipeline Diagram
-![alt text](https://github.com/makima0499/2.Data-Engineer/blob/main/2.DataPipeline.png)
+![alt text](https://github.com/makima0499/2.Data-Engineer/blob/main/Petrobras.png)
 
 ### Tools
 * Python
